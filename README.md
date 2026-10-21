@@ -1,4 +1,4 @@
-# Voldi Mbayo — Interactive Portfolio
+# Voldi Mbayo Interactive Portfolio
 
 A cinematic, scroll-driven portfolio built as an immersive developer experience.
 
